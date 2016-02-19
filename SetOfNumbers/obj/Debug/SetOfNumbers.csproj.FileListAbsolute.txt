@@ -1,1 +1,6 @@
 c:\users\daria\documents\visual studio 2015\Projects\SetOfNumbers\SetOfNumbers\bin\Debug\SetOfNumbers.exe.config
+c:\users\daria\documents\visual studio 2015\Projects\SetOfNumbers\SetOfNumbers\bin\Debug\SetOfNumbers.exe
+c:\users\daria\documents\visual studio 2015\Projects\SetOfNumbers\SetOfNumbers\bin\Debug\SetOfNumbers.pdb
+c:\users\daria\documents\visual studio 2015\Projects\SetOfNumbers\SetOfNumbers\obj\Debug\SetOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\daria\documents\visual studio 2015\Projects\SetOfNumbers\SetOfNumbers\obj\Debug\SetOfNumbers.exe
+c:\users\daria\documents\visual studio 2015\Projects\SetOfNumbers\SetOfNumbers\obj\Debug\SetOfNumbers.pdb
